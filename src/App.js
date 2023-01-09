@@ -24,18 +24,19 @@ function App() {
         <Route path="/kalendar" element={<Kalendar />} />
         
         <Route path="/tyzden1" element={<Tyzden1 />} />
-        <Route path="/tyzden1" element={<Tyzden2 />} />
-        <Route path="/tyzden2" element={<Tyzden3 />} />
-        <Route path="/tyzden3" element={<Tyzden4 />} />
-        <Route path="/tyzden4" element={<Tyzden5 />} />
-        <Route path="/tyzden5" element={<Tyzden6 />} />
-        <Route path="/tyzden6" element={<Tyzden7 />} />
-        <Route path="/tyzden7" element={<Tyzden8 />} />
-        <Route path="/tyzden8" element={<Tyzden9 />} />
-        <Route path="/tyzden9" element={<Tyzden10 />} />
-        <Route path="/tyzden10" element={<Tyzden11 />} />
-        <Route path="/tyzden11" element={<Tyzden12 />} />
-        <Route path="/tyzden12" element={<Tyzden13 />} />
+        <Route path="/tyzden2" element={<Tyzden2 />} />
+        <Route path="/tyzden3" element={<Tyzden3 />} />
+        <Route path="/tyzden4" element={<Tyzden4 />} />
+        <Route path="/tyzden5" element={<Tyzden5 />} />
+        <Route path="/tyzden6" element={<Tyzden6 />} />
+        <Route path="/tyzden7" element={<Tyzden7 />} />
+        <Route path="/tyzden8" element={<Tyzden8 />} />
+        <Route path="/tyzden9" element={<Tyzden9 />} />
+        <Route path="/tyzden10" element={<Tyzden10 />} />
+        <Route path="/tyzden11" element={<Tyzden11 />} />
+        <Route path="/tyzden12" element={<Tyzden12 />} />
+        <Route path="/tyzden13" element={<Tyzden13 />} />
+
 
       </Routes>
     </div>
