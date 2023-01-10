@@ -1,4 +1,5 @@
 import React from 'react'
+import Tyzden6third from './Tyzden6third'
 
 const Tyzdensix = () => {
     return (
@@ -245,7 +246,7 @@ const Tyzdensix = () => {
                 </details>
             </div>
             <div>
-                {/* <Tyzdensix /> */}
+                <Tyzden6third />
             </div>
         </div>
 
