@@ -245,7 +245,7 @@ const Tyzdensix = () => {
                 </details>
             </div>
             <div>
-                <Tyzdensix />
+                {/* <Tyzdensix /> */}
             </div>
         </div>
 
